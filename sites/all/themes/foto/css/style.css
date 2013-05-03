@@ -223,3 +223,10 @@
     height: 105px; 
     background-color: #999;
 }
+
+#blog-main{
+    float: left; 
+    margin-left:340px; 
+    width: 680px; 
+    background-color:  #999;
+}

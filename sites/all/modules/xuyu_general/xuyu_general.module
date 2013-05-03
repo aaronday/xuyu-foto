@@ -1,0 +1,15 @@
+<?php
+
+function xuyu_general_menu() {
+    $items['home'] = array(
+        'title' => 'Home page',
+        'type' => MENU_CALLBACK,
+        'page callback' => 'home_page_display',
+        'page arguments' => array(),
+        'access callback' => TRUE,
+        'file' => 'xuyu_general.inc',
+    );
+    
+    return $items;
+}
+?>

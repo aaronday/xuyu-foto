@@ -1,0 +1,10 @@
+name = xuyu_general
+description = General module for XUYU-FOTO
+package = XUYU-FOTO
+core = 7.x
+
+; Information added by drupal.org packaging script on 2013-05-03
+version = "7.x-1.x"
+core = "7.x"
+project = "xuyu-foto"
+datestamp = "1365037010"
